@@ -1,0 +1,97 @@
+/*
+ * Config
+ */
+border-radius()
+  -webkit-border-radius: arguments
+  -moz-border-radius: arguments
+  border-radius: arguments
+
+/*
+ * Thing styles
+ */
+#map
+  max-width: 100%
+
+svg
+  background-color: $qz-map-water
+
+.states path
+  stroke: $qz-map-land-stroke
+  stroke-width: 1px
+  fill: $qz-map-land-fill
+
+  &.first
+    fill: #f3ceed
+
+  &.second
+    fill: #f0a3dc
+
+  &.third
+    fill: #ea76cb
+
+  &.fourth
+    fill: #e13dba
+
+.vapes circle
+  fill: $qz-gray-3
+  opacity: 0.5
+
+.arrows path {
+  stroke-width: 1px;
+  stroke: $qz-body-black;
+  fill: none;
+}
+
+.labels text
+  fill: $qz-gray-3
+  font-family: 'AdelleSans-Regular', Helvetica, Arial, sans-serif
+  -webkit-font-smoothing: antialiased
+  font-size: 12px
+
+ul#legend
+  padding: 0
+  padding 10px 0
+  list-style-type: none
+
+  li
+    display: inline-block
+    margin: 0 18px 0 0
+    padding: 0
+    line-height: 15px
+
+    b
+      display: inline-block
+      width: 15px
+      height: 15px
+      margin-right: 6px
+      float: left
+      border: 1px solid $qz-map-land-stroke
+
+    div
+      whitespace: nowrap
+      fill: $qz-gray-2
+      font-size: 12px
+      font-family: 'AdelleSans-Regular', Helvetica, Arial, sans-serif
+      float: left;
+
+    &.first b
+      background-color: #f3ceed
+
+    &.second b
+      background-color: #f0a3dc
+
+    &.third b
+      background-color: #ea76cb
+
+    &.fourth b
+      background-color: #e13dba
+
+div.clear
+  clear: both
+
+/*
+ * Media queries
+ */
+@media screen and (max-width: 600px)
+  .states path
+    stroke-width: 0.5px
