@@ -68,8 +68,8 @@ function renderMap(config) {
     /*
      * Setup
      */
-    var aspectRatio = 2.1 / 1;
-    var defaultScale = 650;
+    var aspectRatio = 2.5 / 1;
+    var defaultScale = 550;
 
     var margins = {
       top: 0,
