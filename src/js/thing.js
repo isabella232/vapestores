@@ -132,11 +132,11 @@ function renderMap(config) {
 						return '';
 					}
 
-					if (data['stores_per_100k'] < 2.5) {
+					if (data['stores_per_100k'] < 2) {
 						return 'first';
-					} else if (data['stores_per_100k'] < 5) {
+					} else if (data['stores_per_100k'] < 4) {
 						return 'second';
-					} else if (data['stores_per_100k'] < 7.5) {
+					} else if (data['stores_per_100k'] < 6) {
 						return 'third';
 					} else {
 						return 'fourth';

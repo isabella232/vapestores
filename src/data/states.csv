@@ -1,1 +1,52 @@
-usps,state,stores_per_100kNV,Nevada,10.17HI,Hawaii,8.17CA,California,6.56FL,Florida,6.24OK,Oklahoma,6.24AZ,Arizona,5.64CO,Colorado,5.61OR,Oregon,5.44WA,Washington,5.02TX,Texas,4.73TN,Tennessee,4.68DE,Delaware,4.65VA,Virginia,4.53MO,Missouri,4.42ID,Idaho,4.29NC,North Carolina,4.26RI,Rhode Island,4.26MD,Maryland,4.16NM,New Mexico,4.12NH,New Hampshire,3.98AK,Alaska,3.93WY,Wyoming,3.92NJ,New Jersey,3.9IL,Illinois,3.79SC,South Carolina,3.59GA,Georgia,3.59KS,Kansas,3.43PA,Pennsylvania,3.38AL,Alabama,3.31NY,New York,3.15MI,Michigan,3.14OH,Ohio,3.08CT,Connecticut,3.06MA,Massachusetts,3.02NE,Nebraska,2.95LA,Louisiana,2.89KY,Kentucky,2.82WI,Wisconsin,2.75MS,Mississippi,2.74MT,Montana,2.71UT,Utah,2.5IN,Indiana,2.36ME,Maine,2.33MN,Minnesota,2.15AR,Arkansas,2.08IA,Iowa,1.76SD,South Dakota,1.75WV,West Virginia,1.74VT,Vermont,1.6ND,North Dakota,1.45DC,District of Columbia,1.34
+region,usps,state,shops,pop2015,stores_per_100k
+West,NV,Nevada,194,"2,890,845",6.71
+West,HI,Hawaii,90,"1,431,603",6.29
+South,OK,Oklahoma,197,"3,911,338",5.04
+South,FL,Florida,963,"20,271,272",4.75
+West,CA,California,1724,"39,144,818",4.40
+West,CO,Colorado,234,"5,456,574",4.29
+West,AZ,Arizona,288,"6,828,065",4.22
+South,DE,Delaware,39,"945,934",4.12
+West,WA,Washington,273,"7,170,351",3.81
+South,TN,Tennessee,251,"6,600,299",3.80
+West,OR,Oregon,152,"4,028,977",3.77
+South,TX,Texas,1032,"27,469,114",3.76
+Midwest,MO,Missouri,222,"6,083,672",3.65
+West,ID,Idaho,59,"1,654,930",3.57
+South,NC,North Carolina,354,"10,042,802",3.52
+Northeast,NH,New Hampshire,46,"1,330,608",3.46
+South,VA,Virginia,280,"8,382,993",3.34
+West,NM,New Mexico,68,"2,085,109",3.26
+West,AK,Alaska,23,"738,432",3.11
+South,MD,Maryland,181,"6,006,401",3.01
+Northeast,NJ,New Jersey,260,"8,958,013",2.90
+West,WY,Wyoming,17,"586,107",2.90
+Midwest,IL,Illinois,372,"12,859,995",2.89
+Northeast,RI,Rhode Island,30,"1,056,298",2.84
+South,AL,Alabama,138,"4,858,979",2.84
+South,GA,Georgia,288,"10,214,860",2.82
+South,SC,South Carolina,138,"4,896,146",2.82
+Midwest,MI,Michigan,278,"9,922,576",2.80
+Midwest,KS,Kansas,81,"2,911,641",2.78
+Northeast,PA,Pennsylvania,354,"12,802,503",2.77
+Midwest,OH,Ohio,294,"11,613,423",2.53
+Midwest,NE,Nebraska,47,"1,896,190",2.48
+South,LA,Louisiana,114,"4,670,724",2.44
+South,MS,Mississippi,72,"2,992,333",2.41
+Northeast,NY,New York,475,"19,795,791",2.40
+Northeast,MA,Massachusetts,163,"6,794,422",2.40
+South,KY,Kentucky,105,"4,425,092",2.37
+Northeast,CT,Connecticut,83,"3,590,886",2.31
+West,UT,Utah,66,"2,995,919",2.20
+Midwest,WI,Wisconsin,126,"5,771,337",2.18
+West,MT,Montana,21,"1,032,949",2.03
+Midwest,IN,Indiana,123,"6,619,680",1.86
+South,AR,Arkansas,53,"2,978,204",1.78
+Midwest,MN,Minnesota,96,"5,489,594",1.75
+Northeast,ME,Maine,22,"1,329,328",1.65
+Midwest,IA,Iowa,47,"3,123,899",1.50
+South,WV,West Virginia,26,"1,844,128",1.41
+Midwest,SD,South Dakota,10,"858,469",1.16
+Northeast,VT,Vermont,7,"626,042",1.12
+Midwest,ND,North Dakota,8,"756,927",1.06
+South,DC,District of Columbia,7,"672,228",1.04
